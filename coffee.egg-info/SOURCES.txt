@@ -1,0 +1,10 @@
+README.md
+setup.py
+coffee/__init__.py
+coffee/torch.py
+coffee.egg-info/PKG-INFO
+coffee.egg-info/SOURCES.txt
+coffee.egg-info/dependency_links.txt
+coffee.egg-info/requires.txt
+coffee.egg-info/top_level.txt
+coffee.egg-info/zip-safe
